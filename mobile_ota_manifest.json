@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 201,
-  "apkVersionName": "2.0.1",
+  "apkVersionCode": 202,
+  "apkVersionName": "2.0.2",
   "apkUrl": "https://raw.githubusercontent.com/ideafactory86/traffic_booster_releases/main/traffic_master_m.apk",
-  "hotpatchVersion": 201,
-  "hotpatchNote": "트래픽 마스터M v2.0.1 (초고속 점프 스크롤 제거 + 실제 사람 시선 속도 저속 사인곡선 가감속 스크롤 엔진 적용)",
+  "hotpatchVersion": 202,
+  "hotpatchNote": "트래픽 마스터M v2.0.2 (네이버 영수증 캡차·구글 reCAPTCHA 4단계 실시간 감지 및 허수 타격 집계 원천 차단 패치)",
   "hotpatchInitJs": "",
   "hotpatchEngageJs": ""
 }
