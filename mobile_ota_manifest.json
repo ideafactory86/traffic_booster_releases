@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 200,
-  "apkVersionName": "2.0.0",
+  "apkVersionCode": 201,
+  "apkVersionName": "2.0.1",
   "apkUrl": "https://raw.githubusercontent.com/ideafactory86/traffic_booster_releases/main/traffic_master_m.apk",
-  "hotpatchVersion": 200,
-  "hotpatchNote": "트래픽 마스터M v2.0 (24시간 포그라운드 서비스 + 네이버·구글 1~5p + 자동완성 + 포고스티킹 + 서브페이지 다중뎁스 순회 + 자동업데이트)",
+  "hotpatchVersion": 201,
+  "hotpatchNote": "트래픽 마스터M v2.0.1 (초고속 점프 스크롤 제거 + 실제 사람 시선 속도 저속 사인곡선 가감속 스크롤 엔진 적용)",
   "hotpatchInitJs": "",
   "hotpatchEngageJs": ""
 }
