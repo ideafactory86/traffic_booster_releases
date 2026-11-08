@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 210,
-  "apkVersionName": "2.1.0",
+  "apkVersionCode": 220,
+  "apkVersionName": "2.2.0",
   "apkUrl": "https://raw.githubusercontent.com/ideafactory86/traffic_booster_releases/main/traffic_master_m.apk",
-  "hotpatchVersion": 210,
-  "hotpatchNote": "트래픽 마스터M v2.1.0 아르곤 에디션 (10대 핵심 스텔스 규칙 + 비로그인 오가닉 진입 + 20ms 코사인 저속 스크롤 + 물리 하드웨어 터치 + 6중 캡차 실시간 워치독 + 1:1 상위노출 컨설팅 안내 탑재)",
+  "hotpatchVersion": 220,
+  "hotpatchNote": "트래픽 마스터M v2.2.0 아르곤 에디션 (원클릭 [📤로그전송] 오류 진단 리포트 전송 기능 + 클린 IPv4 최근 5개 IP 표시 + 비행기모드 하드웨어 직타 + 1:1 상위노출 컨설팅 안내 탑재)",
   "hotpatchInitJs": "",
   "hotpatchEngageJs": ""
 }
